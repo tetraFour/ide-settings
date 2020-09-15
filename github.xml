@@ -1,0 +1,7 @@
+<application>
+  <component name="GithubAccounts">
+    <account id="654e25d9-2ef4-4b6c-ac4e-9b212acfbb5f" name="tetraFour">
+      <server useHttp="false" host="github.com" />
+    </account>
+  </component>
+</application>

@@ -1,0 +1,15 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <removed_mapping pattern=".eslintrc" type="JSON" />
+      <mapping pattern=".parcelrc" type="PLAIN_TEXT" />
+      <mapping pattern="reqs" type="PLAIN_TEXT" />
+      <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
+      <mapping pattern=".bebelrc" type="PLAIN_TEXT" />
+      <mapping pattern="constans.js" type="PLAIN_TEXT" />
+      <mapping pattern=".eslintrc" type="PLAIN_TEXT" />
+      <mapping ext="prod" type="PLAIN_TEXT" />
+      <mapping pattern="DialogInputVoice" type="TypeScript JSX" />
+    </extensionMap>
+  </component>
+</application>
