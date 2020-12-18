@@ -9,6 +9,7 @@
       <mapping pattern=".bebelrc" type="PLAIN_TEXT" />
       <mapping pattern="constans.js" type="PLAIN_TEXT" />
       <mapping pattern=".eslintrc" type="PLAIN_TEXT" />
+      <mapping pattern="components" type="PLAIN_TEXT" />
       <mapping ext="prod" type="PLAIN_TEXT" />
       <mapping pattern="DialogInputVoice" type="TypeScript JSX" />
       <removed_mapping pattern=".eslintrc" approved="true" type="JSON" />
