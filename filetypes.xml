@@ -3,6 +3,7 @@
     <extensionMap>
       <removed_mapping pattern=".eslintrc" approved="true" type="JSON" />
       <mapping pattern=".parcelrc" type="PLAIN_TEXT" />
+      <mapping pattern="AuthForms" type="PLAIN_TEXT" />
       <mapping pattern="reqs" type="PLAIN_TEXT" />
       <mapping pattern="Procfile" type="PLAIN_TEXT" />
       <mapping pattern=".bebelrc" type="PLAIN_TEXT" />
