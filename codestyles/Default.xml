@@ -2,9 +2,9 @@
   <JSCodeStyleSettings version="0">
     <option name="IMPORT_SORT_MODULE_NAME" value="true" />
     <option name="BLACKLIST_IMPORTS" value="react/*,rxjs/Rx,node_modules/**,**/node_modules/**,@angular/material,@angular/material/typings/**" />
+    <option name="IMPORT_PREFER_ABSOLUTE_PATH" value="TRUE" />
   </JSCodeStyleSettings>
   <TypeScriptCodeStyleSettings version="0">
     <option name="IMPORT_SORT_MODULE_NAME" value="true" />
-    <option name="IMPORT_PREFER_ABSOLUTE_PATH" value="TRUE" />
   </TypeScriptCodeStyleSettings>
 </code_scheme>
