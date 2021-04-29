@@ -3,5 +3,8 @@
     <account id="654e25d9-2ef4-4b6c-ac4e-9b212acfbb5f" name="tetraFour">
       <server useHttp="false" host="github.com" />
     </account>
+    <account id="7e462620-155a-4471-aadf-ff353d050972" name="tetraf0ur">
+      <server host="github.com" />
+    </account>
   </component>
 </application>
